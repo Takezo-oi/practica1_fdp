@@ -1,1 +1,8 @@
-
+5.¿Qué diferencias existen entre un motor de combustible sólido y uno de combustible líquido?
+Un motor de combustible sólido utiliza una mezcla sólida de combustible y oxidante que se encuentra integrada en una sola estructura. Una vez encendido, el proceso de combustión continúa hasta que el material se consume completamente. Estos motores son más simples y robustos, pero no permiten un control preciso del empuje.
+En cambio, un motor de combustible líquido almacena combustible y oxidante en tanques separados en estado líquido. Ambos se inyectan en la cámara de combustión, lo que permite regular la potencia e incluso apagar el motor si es necesario. Esto brinda mayor control en misiones espaciales.
+La principal diferencia radica en el nivel de control y complejidad: los motores sólidos son más sencillos, mientras que los líquidos son más versátiles y precisos.
+Referencias:
+NASA Glenn Research Center. (s.f.). Rocket Propulsion. https://www.grc.nasa.gov
+Sutton, G. P., & Biblarz, O. (2017). Rocket Propulsion Elements. Wiley.
+European Space Agency (ESA). (s.f.). Rocket Engines. https://www.esa.int
